@@ -1,3 +1,3 @@
-mapbox-studio-default-style
+iMMAP-Afghanistan-Hillshades
 ===========================
-Default style used by new style projects in Mapbox Studio.
+Based on the default Mapbox Outdoors style
